@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/alta"
+        android:title="Alta libro" />
+    <item
+        android:id="@+id/info"
+        android:icon="@drawable/acercade"
+        android:title="Acerca de..." />
+    <item
+        android:id="@+id/importar"
+        android:title="Importar datos" />
+    <item
+        android:id="@+id/exportar"
+        android:title="Exportar datos" />
+    <item
+        android:id="@+id/ordenar"
+        android:title="Ordenar por" />
+</menu>
